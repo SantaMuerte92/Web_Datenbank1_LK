@@ -1,0 +1,62 @@
+﻿@using Web_Datenbank1_LK.Models
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+    <meta name="viewport" content="width=device-width, inittial-scale=1" />
+    <title>Index</title>
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+   
+</head>
+<body>
+    <div class="container">
+        <h1>Personen DB</h1>
+        <p>Dies ist die Startseite der Anwendung.</p>
+        <table>
+            <tr>
+                <th>Vorname</th>
+                <th>Nachname</th>
+                <th>Geburtsdatum</th>
+                <th>Alter</th>
+                <th>Größe</th>
+                <th>Gewicht</th>
+            </tr>
+
+            @foreach (var person in Model)
+            {
+                <td>person.FirstName</td>
+                <td>person.LastName</td>
+                if (person.BirthDate == null)
+                {
+                    <td>n/a</td>
+                }
+                else
+                {
+                    <td>(person.isBdayin3months.value ? "style=\"background-color:lightgreen\"" : "") > person.BirthDate.Value</td>
+                }
+
+                <td>person.BodySize == null ? n/a  </td>
+                <td>person.BodyWeight == null ? n/a  </td>
+
+            }
+
+        </table>
+
+
+
+    </div>
+
+
+
+    
+
+
+
+
+</body>
+</html>
