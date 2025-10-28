@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|c:\\users\\fia\\projekte\\web_datenbank1_lk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|c:\\users\\fia\\projekte\\web_datenbank1_lk\\dal\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|solutionrelative:dal\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|c:\\users\\fia\\projekte\\web_datenbank1_lk\\dal\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +15,12 @@
       "RelativeMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|c:\\users\\fia\\projekte\\web_datenbank1_lk\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|c:\\users\\fia\\projekte\\web_datenbank1_lk\\bl\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|solutionrelative:bl\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|c:\\users\\fia\\projekte\\web_datenbank1_lk\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|c:\\users\\fia\\projekte\\web_datenbank1_lk\\dal\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|solutionrelative:dal\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F9806CA-5CF2-46CF-A47C-85AA74B0B090}|Web_Datenbank1_LK.csproj|c:\\users\\fia\\projekte\\web_datenbank1_lk\\viewmodels\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,33 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\libman.json",
-              "RelativeDocumentMoniker": "libman.json",
-              "ToolTip": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\libman.json",
-              "RelativeToolTip": "libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-16T10:01:47.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:28:24.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "IPersonRepository.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\DAL\\IPersonRepository.cs",
               "RelativeDocumentMoniker": "DAL\\IPersonRepository.cs",
@@ -105,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Models\\Person.cs",
@@ -113,8 +79,7 @@
               "RelativeToolTip": "Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:50:07.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T07:50:07.557Z"
             },
             {
               "$type": "Document",
@@ -126,12 +91,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:37:53.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:37:53.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PersonService.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\BL\\PersonService.cs",
               "RelativeDocumentMoniker": "BL\\PersonService.cs",
@@ -139,12 +103,11 @@
               "RelativeToolTip": "BL\\PersonService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:39:28.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:39:28.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "IndexViewModel.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\ViewModels\\IndexViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\IndexViewModel.cs",
@@ -152,12 +115,11 @@
               "RelativeToolTip": "ViewModels\\IndexViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:34:24.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:34:24.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "PersonwithAge.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\Models\\PersonwithAge.cs",
               "RelativeDocumentMoniker": "Models\\PersonwithAge.cs",
@@ -165,12 +127,11 @@
               "RelativeToolTip": "Models\\PersonwithAge.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:32:00.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:32:00.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "IPersonService.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\BL\\IPersonService.cs",
               "RelativeDocumentMoniker": "BL\\IPersonService.cs",
@@ -178,12 +139,11 @@
               "RelativeToolTip": "BL\\IPersonService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:19:28.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:19:28.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\Web_Datenbank1_LK\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -191,8 +151,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T09:12:37.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T09:12:37.64Z"
             },
             {
               "$type": "Document",
@@ -204,8 +163,7 @@
               "RelativeToolTip": "DAL\\PersonRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T08:38:02.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T08:38:02.286Z"
             }
           ]
         }
